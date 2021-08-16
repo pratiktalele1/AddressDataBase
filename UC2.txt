@@ -1,0 +1,2 @@
+-- UC2
+create table AddressBook(fullname varchar(75),address varchar(50),
