@@ -1,0 +1,2 @@
+-- UC5
+delete from AddressBook where fullname='pratik talele';
