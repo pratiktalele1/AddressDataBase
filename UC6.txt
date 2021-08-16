@@ -1,0 +1,2 @@
+-- UC6
+select * from AddressBook where city='nagpur' or state='maharashtra';
