@@ -1,0 +1,7 @@
+-- UC10
+insert into AddressBook values('kavi kalele','Spoint','indoor','mp',425002,8876543210,'kavi@gmail.com','friend');
+insert into AddressBook values('navi palale','mpoint','kini','mp',225002,887653210,'navi@gmail.com','friend');
+insert into AddressBook values('nmu patil','Apart','UP','mp',425002,8876543210,'nmu@gmail.com','profession');
+insert into AddressBook values('shantanu nemade','vector part','londa','cp',225002,887653210,'shantanu@gmail.com','profession');
+
+select count(type),type from AddressBook group by type;
