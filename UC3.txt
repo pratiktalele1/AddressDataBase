@@ -1,0 +1,5 @@
+-- UC3
+insert into AddressBook values('pratik talele','Tpoint','abad','maharashtra',431001,9876543210,'pratik@gmail.com');
+insert into AddressBook values('ratik palele','Cpoint','nagpur','maharashtra',431004,5876543210,'ratik@gmail.com');
+insert into AddressBook values('satvik kalele','Spoint','indoor','mp',425002,8876543210,'satvik@gmail.com');
+select * from AddressBook;
